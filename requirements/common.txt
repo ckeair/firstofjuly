@@ -1,0 +1,2 @@
+# dependencies common to all environments
+Django==2.1.15
